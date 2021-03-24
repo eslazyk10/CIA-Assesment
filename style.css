@@ -1,0 +1,175 @@
+.container{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.header{
+    background-color: black;
+    padding: 10px;
+}
+
+#menu-icon{
+    color: white;
+    margin-left: 25px;
+    font-size: 25px;
+}
+
+.logo-section{
+    background-image: url(https://github.com/Conversion-Interactive-Agency/CandidateAssesment/blob/main/IMG/background.jpg?raw=true);
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 25px;
+}
+
+.cdl-a{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    margin-left: 35px;
+    margin-right: 35px;
+    font-size: 30px;
+}
+
+.quick-form-btn{
+    color: white;
+    border: 3px solid #787878;
+    border-radius: 6px;
+    background-color: #787878;
+    padding: 8px;
+    margin-bottom: 50px;
+}
+
+#job-section-text{
+    color: #C31D23;
+    font-weight: 650;
+    margin-right: 15px;
+    margin-left: 45px;
+}
+
+.buttons{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 4px;
+    position: fixed;
+}
+
+#apply-btn{
+    background-color: #C31D23;
+    color: white;
+    border: 3px solid #C31D23;
+    border-radius: 6px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#call-btn{
+    background-color: #787878;
+    color: white;
+    border: 3px solid #787878;
+    border-radius: 6px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+#search-jobs-btn{
+    background-color: black;
+    color: white;
+    border: 3px solid black;
+    border-radius: 6px;
+    padding-left: 132px;
+    padding-right: 132px;
+    margin-top: 4px;
+}
+
+.schedule-description{
+    margin-top: 20px;
+    font-size: 12px;
+    margin-right: 145px;
+
+}
+
+.benefits-section{
+    background-color: #EEEEEE;
+    margin-top: 25px;
+    padding-top: 35px;
+}
+
+#driver-img{
+    display: block;
+    margin: 0 auto;
+    
+    padding-left: 55px;
+    
+}
+
+ul{
+    font-size: 12px;
+    margin-right: 55px;
+}
+
+#arrow{
+    display: block;
+    margin: 0 auto;
+    color: #C31D23;
+    text-align: center;
+    font-weight: 700;
+    font-size: 60px;
+    margin-top: 30px;
+    padding-bottom: 15px;
+}
+
+.form-section{
+    background-color: black;
+}
+
+h4{
+    padding-top: 20px;
+    color: white;
+    text-align: center;
+    padding-bottom: 35px;
+
+}
+
+form{
+    display: block;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-bottom: 8px;
+
+}
+
+.col-4{
+    margin-bottom: 10px;
+    
+}
+
+.submit-btn{
+    border: 2px solid white;
+    background-color:#C31D23;
+    color: white;
+    border-radius: 3px;
+    display: block;
+    margin-left: 678px;
+    margin-top: 25px;
+    margin-bottom: 45px;
+}
+
+.footer{
+    background-color: #465154;
+    padding: 10px;
+}
+
+a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}
+
+a.hover{
+    color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
