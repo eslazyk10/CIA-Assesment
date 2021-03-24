@@ -86,7 +86,7 @@
 .schedule-description{
     margin-top: 20px;
     font-size: 12px;
-    margin-right: 145px;
+    padding-right: 145px;
 
 }
 
@@ -100,13 +100,13 @@
     display: block;
     margin: 0 auto;
     
-    padding-left: 55px;
+    padding-left: 50px;
     
 }
 
 ul{
     font-size: 12px;
-    margin-right: 55px;
+    padding-right: 55px;
 }
 
 #arrow{
